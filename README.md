@@ -1,2 +1,2 @@
 # dealkaro
-A website for comparison
+A website for comparison.
